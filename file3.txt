@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 what is your name?
 master
+=======
+ what is your name?
+second
+>>>>>>> alin-plot

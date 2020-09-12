@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hi master
+=======
+Hi second
+>>>>>>> alin-plot

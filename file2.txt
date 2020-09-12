@@ -1,2 +1,6 @@
 How are you? too
+<<<<<<< HEAD
 master
+=======
+second
+>>>>>>> alin-plot
